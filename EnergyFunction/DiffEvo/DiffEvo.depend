@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1485445691 source:o:\array benchmark\energyfunction\diffevo\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	"DESolver.h"
+	<math.h>
+	<iterator>
+	<vector>
+	<time.h>
+
+1485440850 o:\array benchmark\energyfunction\diffevo\desolver.h
+
+1485445715 source:o:\array benchmark\energyfunction\diffevo\desolver.cpp
+	<memory.h>
+	<stdlib.h>
+	<time.h>
+	"DESolver.h"
+

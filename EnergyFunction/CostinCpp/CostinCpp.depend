@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1485443198 source:o:\array benchmark\energyfunction\costincpp\main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+
+1484349762 source:d:\array bench temp\energyfunction\costincpp\main.cpp
+	<iostream>
+	<math.h>
+	<complex>
+	<stdio.h>
+	<stdlib.h>
+
